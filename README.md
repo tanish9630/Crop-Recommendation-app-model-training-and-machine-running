@@ -1,6 +1,11 @@
 # Crop Recommendation System
 
-This project implements a Machine Learning-based system to recommend the most suitable crops for cultivation based on soil and environmental parameters. It includes both a data analysis notebook and a Flask-based web application.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+This project implements a Machine Learning-based system to recommend the most suitable crops for cultivation based on soil and environmental parameters. It includes both a data analysis notebook and a **Streamlit-based** web application.
 
 ## 📌 Project Overview
 
@@ -10,7 +15,7 @@ Agriculture is the backbone of many economies. This project aims to assist farme
 
 -   **Data Analysis & Modeling:** Comprehensive data analysis and model training using Jupyter Notebooks.
 -   **Machine Learning Models:** Utilizes algorithms like Logistic Regression, Random Forest, and XGBoost.
--   **Web Application:** A user-friendly web interface built with Flask to input soil data and get crop recommendations.
+-   **Web Application:** A user-friendly web interface built with **Streamlit** to input soil data and get crop recommendations.
 -   **Accurate Predictions:** Recommends the best crop based on scientific data.
 
 ## 📂 Project Structure
