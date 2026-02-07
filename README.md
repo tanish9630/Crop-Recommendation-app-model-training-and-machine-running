@@ -5,7 +5,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-This project implements a Machine Learning-based system to recommend the most suitable crops for cultivation based on soil and environmental parameters. It includes both a data analysis notebook and a **Streamlit-based** web application.
+This project implements a Machine Learning-based system to recommend the most suitable crops for cultivation based on soil and environmental parameters. It includes both a data analysis notebook 📓 and a **Streamlit-based** web application.
 
 ## 📌 Project Overview
 
